@@ -2,4 +2,4 @@
 
 ### Nome aluno(a)
 
-[comment]: <> (Gabriela de Souza Reis)
+Gabriela de Souza Reis
